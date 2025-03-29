@@ -1,17 +1,8 @@
-# REAL-TIME COLLABORATIVE DOCUMENT EDITOR
+# React + Vite
 
-*COMPANY*:CODTECH IT SOLUTIONS
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-*NAME*:PRINCE VERMA
+Currently, two official plugins are available:
 
-*INTERN ID*:CT6WUAK
-
-*DOMAIN*:FRONT END DEVELOPER
-
-*DURATION*:6 WEEKS
-
-*MENTOR*: NEELAM SANTOSH
-
-##Document editor use for editing a document real time with collaboratievly 
-
-#OUTPUT
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
