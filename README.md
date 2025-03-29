@@ -1,4 +1,4 @@
-# E-COMMERCE-PLATFORM-
+# REAL-TIME-COLLABORATIVE-EDITOR
 
 *COMPANY*:CODTECH IT SOLUTIONS
 
@@ -12,6 +12,9 @@
 
 *MENTOR*: NEELAM SANTOSH
 
-##herbal e commerce website full responsive for purchaseing a herbs plant  
+##EREAL TIME COLLABORATIVE DOCUMENT EDITOR
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/68e2eeb7-6f65-4b92-8115-74f8eb27489b)
+
