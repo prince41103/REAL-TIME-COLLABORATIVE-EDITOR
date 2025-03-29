@@ -1,8 +1,17 @@
-# React + Vite
+# E-COMMERCE-PLATFORM-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*COMPANY*:CODTECH IT SOLUTIONS
 
-Currently, two official plugins are available:
+*NAME*:PRINCE VERMA
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*INTERN ID*:CT6WUAK
+
+*DOMAIN*:FRONT END DEVELOPER
+
+*DURATION*:6 WEEKS
+
+*MENTOR*: NEELAM SANTOSH
+
+##herbal e commerce website full responsive for purchaseing a herbs plant  
+
+#OUTPUT
